@@ -1,0 +1,12 @@
+{
+    "mainHeaderTitle": "یادداشت های من",
+    "addNote_btn": "ساخت یادداشت جدید",
+    "addHeaderTitle": "یادداشت جدید",
+    "updateHeaderTitle": "ویرایش یادداشت",
+    "titleInput": "عنوان",
+    "contentInput": "محتوای اصلی",
+    "saveNote_btn": "ذخیره یادداشت",
+    "cancel_btn": "انصراف",
+    "editNote_btn": "ویرایش یادداشت",
+    "deleteNote_btn": "حذف یادداشت"
+}

@@ -1,0 +1,12 @@
+{
+    "mainHeaderTitle": "My Notes",
+    "addNote_btn": "Add Note",
+    "addHeaderTitle": "Create Note",
+    "updateHeaderTitle": "Update Note",
+    "titleInput": "Title",
+    "contentInput": "Content",
+    "saveNote_btn": "Save Note",
+    "cancel_btn": "Cancel",
+    "editNote_btn": "Edit Note",
+    "deleteNote_btn": "Delete Note"
+}
